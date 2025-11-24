@@ -172,7 +172,7 @@ After redesign (top-k = 100, deeper MLP):
 - Hybrid MLP’s ROC curve almost overlaps with L1 Logistic.
 - Full-feature MLP performs worst due to dimensionality.
 
-![ROC Curve](roc_refined(1).png)
+![ROC Curve](roc_refined.png)
 
 
 ---
@@ -218,9 +218,7 @@ These are clinically meaningful and stable.
 
 # 📄 Full Report
 
- **EE782_Final_Project.pdf** (included in this repo)
-
----
+---**[EE782_Final_Project.pdf](EE782_Final_Project.pdf)**
 
 # Acknowledgements
 
