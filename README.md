@@ -41,7 +41,7 @@ Files used:
 
 - ![`demographic.csv`](demographic.csv)
 - ![`examination.csv`](examination.csv)
-- ![`labs.csv`].labs.csv
+- [`labs.csv`](labs.csv)
 - ![`medications.csv`](medications.csv)
 - ![`questionnaire.csv`](questionaire.csv)
 
