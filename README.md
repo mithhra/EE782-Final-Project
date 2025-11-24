@@ -122,10 +122,6 @@ Motivations:
 
 # **RESULTS**
 
-(All results directly taken from EE782_Final_Project.pdf :contentReference[oaicite:1]{index=1})
-
----
-
 ## 1. INITIAL PROTOTYPE RESULTS
 
 This pipeline suffered from instability but gave a baseline.
