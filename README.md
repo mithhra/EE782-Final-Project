@@ -39,11 +39,11 @@ The refined pipeline shows clear improvements in stability, recall, and F1-score
 Dataset: **NHANES** (National Health and Nutrition Examination Survey)  
 Files used:
 
-- ![`demographic.csv`](demographic.csv)
-- ![`examination.csv`](examination.csv)
+- [`demographic.csv`](demographic.csv)
+- [`examination.csv`](examination.csv)
 - [`labs.csv`](labs.csv)
-- ![`medications.csv`](medications.csv)
-- ![`questionnaire.csv`](questionaire.csv)
+- [`medications.csv`](medications.csv)
+- [`questionnaire.csv`](questionaire.csv)
 
 Final processed dataset after cleaning:
 - **4863 samples**
