@@ -216,10 +216,11 @@ These are clinically meaningful and stable.
 
 ---
 
-# 📄 Full Report
+# Full Report
 
 ---**[EE782_Final_Project.pdf](EE782_Final_Project.pdf)**
 
+#[Colab Link](https://colab.research.google.com/drive/1kcQu0BzKGkimWl2M_m_Ukcwpgyv-huON?usp=sharing)
 # Acknowledgements
 
 This project was completed for **EE782 – Advanced Topics in Machine Learning**,  
