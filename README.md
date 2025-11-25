@@ -195,7 +195,8 @@ These are clinically meaningful and stable.
 - Hybrid combines:
   - **linear stability**  
   - **nonlinear expressiveness**  
-- Result: better recall, better F1, same AUC as L1 baseline.  
+- Result: better recall, better F1, same AUC as L1 baseline.
+- I also tried increasing the evaluation to 5-fold cross-validation for more robust estimates, but the computational cost rose sharply because the entire HDLSS pipeline had to run more frequently. With my resources, completing the full 5-fold setup wasn’t practical, although environments with stronger compute can handle it easily.
 
 ---
 
