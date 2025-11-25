@@ -214,7 +214,7 @@ These are clinically meaningful and stable.
 
 # Full Report and Colab Link
 
-**[EE782_Final Report.pdf](EE782_Final Report.pdf)**
+**![EE782_Final Report.pdf](EE782_Final Report.pdf)**
 
 [Colab Link](https://colab.research.google.com/drive/1kcQu0BzKGkimWl2M_m_Ukcwpgyv-huON?usp=sharing)
 # Acknowledgements
